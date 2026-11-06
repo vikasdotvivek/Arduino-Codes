@@ -1,0 +1,45 @@
+{
+  "generator": "repository-static-triage",
+  "version": "1.0",
+  "repository": "vikasdotvivek/Arduino-Codes",
+  "revision": "c50b64f834e5c834ef2ccf7777ddfcb88f5a9dea",
+  "tracked_files": 6,
+  "scanned": [
+    {
+      "path": "7_segment/7_segment.ino",
+      "lines": 83,
+      "bytes": 1424
+    },
+    {
+      "path": "numberpad/numberpad.ino",
+      "lines": 32,
+      "bytes": 606
+    },
+    {
+      "path": "scoreboard_lcd/scoreboard_lcd.ino",
+      "lines": 24,
+      "bytes": 524
+    },
+    {
+      "path": "sonar___lfr/sonar___lfr.ino",
+      "lines": 349,
+      "bytes": 7786
+    }
+  ],
+  "skipped": [
+    {
+      "path": ".github/workflows/code-improvement-review.yml",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "README.md",
+      "reason": "non-source format; content not audited"
+    }
+  ],
+  "manifests": [],
+  "conventional_test_paths": [],
+  "findings": [],
+  "total_findings": 0,
+  "findings_omitted": 0,
+  "execution": "No repository code, tests, builds or hardware were executed."
+}
